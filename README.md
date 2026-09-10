@@ -1,17 +1,100 @@
-# notezy
+# Notesy 📝
 
-A new Flutter project.
+Notesy is a clean, cute, and user-friendly Flutter notes application designed to make writing, organizing, and managing personal notes simple and convenient.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 📝 Create and write notes
+* 💾 Save notes for later access
+* ⭐ Mark important notes as favorites
+* 🎨 Clean and simple user interface
+* 🌙 Light and dark theme support
+* ✏️ Rich text editing and formatting
+* 📄 Export notes as PDF
+* 📃 Export notes as DOCX
+* 🏠 View saved notes directly from the home screen
+* 📱 Responsive design for different screen sizes
+* 🌐 Flutter Web support
+* 📲 Android support
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Flutter**
+* **Dart**
+* **Flutter Quill** – Rich text editing
+* **Google Fonts** – Custom typography
+* **PDF** – PDF document generation
+* **Printing** – Printing and PDF handling
+* **Path Provider** – File path management
+* **Share Plus** – Sharing exported files
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Purpose
+
+The purpose of Notesy is to provide a simple and interactive digital space where users can create, organize, save, and export their notes without unnecessary complexity.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have:
+
+* Flutter SDK installed
+* Dart SDK
+* VS Code or Android Studio
+* A connected Android device/emulator or a supported web browser
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+Navigate to the project folder:
+
+```bash
+cd notezy
+```
+
+Install the dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+For Chrome:
+
+```bash
+flutter run -d chrome
+```
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+└── ...
+```
+
+## 💡 Future Improvements
+
+The project can be further improved with additional personalization, cloud-based data storage, user profiles, and other useful note-management features.
+
+## 👩‍💻 Developed With
+
+Built with **Flutter and Dart** as a mobile and web application project.
+
+---
+
+### Flutter Resources
+
+* [Flutter Documentation](https://docs.flutter.dev/)
+* [Flutter Learning Resources](https://docs.flutter.dev/get-started/learn-flutter)
+* [Dart Documentation](https://dart.dev/)
