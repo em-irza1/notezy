@@ -48,7 +48,7 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/em-irza1/notez.git
 ```
 
 Navigate to the project folder:
